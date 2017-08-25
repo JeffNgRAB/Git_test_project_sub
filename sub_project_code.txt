@@ -3,3 +3,4 @@ this is sub module code
 -update submodule from main
 -second change in sub
 -third change in sub
+-submodule update
